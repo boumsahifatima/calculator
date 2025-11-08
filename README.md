@@ -2,17 +2,13 @@
 
 ## 🌟 Simple and Smart — Do the Math with Style  
 
-![Last commit](https://img.shields.io/github/last-commit/boumsahifatima/calculator)  
-![HTML](https://img.shields.io/github/languages/top/boumsahifatima/calculator?color=orange)  
-![Languages](https://img.shields.io/github/languages/count/boumsahifatima/calculator?color=brightgreen)  
+![Last commit](https://img.shields.io/github/last-commit/boumsahifatima/calculator)  ![HTML](https://img.shields.io/github/languages/top/boumsahifatima/calculator?color=orange)  ![Languages](https://img.shields.io/github/languages/count/boumsahifatima/calculator?color=brightgreen)  
 
 ---
 
 ## 🛠 Built with the tools and technologies  
 
-![HTML5](https://img.shields.io/badge/HTML5-100%25-orange)  
-![CSS3](https://img.shields.io/badge/CSS3-100%25-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)  
+![HTML5](https://img.shields.io/badge/HTML5-100%25-orange)  ![CSS3](https://img.shields.io/badge/CSS3-100%25-blue)  ![JavaScript](https://img.shields.io/badge/JavaScript-100%25-yellow)  
 
 ---
 
@@ -39,6 +35,7 @@ Check the live version here:
 
 ## 📂 File Structure  
 calculator/
+
 │
 ├── index.html      # main interface  
 ├── style.css       # calculator design  
