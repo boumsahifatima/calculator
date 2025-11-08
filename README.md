@@ -8,7 +8,7 @@
 
 ## 🛠 Built with the tools and technologies  
 
-![Repo Size](https://img.shields.io/github/repo-size/boumsahifatima/calculator?color=blueviolet)  ![Code Size](https://img.shields.io/github/languages/code-size/boumsahifatima/calculator?color=pink)  ![Lines of Code](https://img.shields.io/tokei/lines/github/boumsahifatima/calculator?color=purple)  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black) 
 
 ---
 ---
