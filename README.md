@@ -35,8 +35,6 @@ Check the live version here:
 
 ## 📂 File Structure  
 calculator
-│
-
 ├── index.html      # main interface  
 ├── style.css       # calculator design  
 └── script.js       # JavaScript logic  
